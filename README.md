@@ -7,22 +7,15 @@
 
 FABER (Fatigue Benchmark Repository) is a COST Action CA23109 initiative dedicated to advancing the field of fatigue analysis through open science and collaborative research. We aim to create comprehensive repositories of experimental data, computational tools, and standardized benchmarks to improve fatigue life prediction methods.
 
-## Mission
+## Mission & Objectives
 
-Our mission is to bridge the gap between academia, industry, and software developers to foster better and safer design methodologies. We focus on:
+Our mission is to bridge the gap between academia, industry, and software developers to foster better and safer design methodologies.
 
-- 🔬 **Open Science**: Creating open-access repositories for experimental fatigue data
-- 🤝 **Interdisciplinary Collaboration**: Promoting cooperation among researchers, industry professionals, and software developers
-- 🛠️ **Tool Development**: Developing open-source fatigue analysis software
-- 📊 **Standardization**: Providing easily accessible benchmark data sets for testing prediction hypotheses and computational tools
-- 🎯 **Safety & Efficiency**: Improving engineering practices to enhance safety and cost-effectiveness
-
-## Objectives
-
-1. **Reduce Fragmentation**: Create a central resource that fosters better data sharing and standardized practices in fatigue research
-2. **Enhance Prediction Methods**: Improve the accuracy and reliability of fatigue solver software
-3. **Foster Collaboration**: Build a community of researchers and practitioners working together on fatigue-related challenges
-4. **Promote Transparency**: Encourage responsible use of computational results through open-source initiatives
+- 🔬 **Open Science & Data Access**: Create open-access repositories for experimental fatigue data and benchmark datasets to reduce fragmentation and improve standardization.
+- 🤝 **Collaboration**: Promote cooperation among researchers, industry professionals, and software developers; build a community working together on fatigue-related challenges.
+- 🛠️ **Tool Development**: Develop open-source fatigue analysis software to enhance prediction methods and support reproducible workflows.
+- 📊 **Standardization**: Provide accessible benchmark datasets for testing prediction hypotheses and computational tools, encouraging comparable and transparent results.
+- 🎯 **Safety & Efficiency**: Improve engineering practices to enhance safety and cost-effectiveness, and encourage responsible, open use of computational results.
 
 ## Get Involved
 
@@ -37,8 +30,15 @@ FABER welcomes participation from researchers, engineers, and developers interes
 ## Links
 
 - 🌐 **Official Website**: [faber-cost.eu](https://faber-cost.eu/)
-- 📋 **About Us**: [faber-cost.eu/about-us](https://faber-cost.eu/about-us/)
 - 🇪🇺 **COST Action Page**: [www.cost.eu/actions/CA23109](https://www.cost.eu/actions/CA23109/)
+
+## Highlighted project:
+
+- **FatPy** — an early-stage Python library for fatigue analysis
+	- Repository: https://github.com/faberorg/FatPy
+	- Documentation & examples: https://faberorg.github.io/FatPy/
+	- Status: Early development; features are limited and evolving. Interfaces may change. Contributions and feedback are welcome.
+	- Roadmap scope: aims to support reading common fatigue data formats, cycle counting, damage metrics, and reproducible workflows over time.
 
 ## About COST
 
